@@ -1,0 +1,24 @@
+{
+  "name": "acceptmessage",
+  "version": "1.1.0",
+  "description": "An extension for discord.js to create accept messages with reactions",
+  "main": "src/main.js",
+  "dependencies": {
+    "discord.js": "^11.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test/test.js $DEVBOTTOKEN"
+  },
+  "keywords": [
+    "discord.js",
+    "accept",
+    "message"
+  ],
+  "author": "zekro <contact@zekro.de>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/zekrotja/AcceptMessage.git"
+  }
+}
