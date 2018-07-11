@@ -13,6 +13,12 @@
 
 ---
 
+# Screenshots
+
+![](http://zekro.de/ss/2018-07-11_19-16-57.gif)
+
+---
+
 # Usage
 
 ```js
