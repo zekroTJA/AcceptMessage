@@ -1,7 +1,6 @@
 <div align="center">
      <h1>~ AcceptMessage ~</h1>
      <strong>discord.js addon to create acceptable messages</strong><br><br>
-     <a href="https://travis-ci.org/zekroTJA/discordjs-cmds" ><img src="https://travis-ci.org/zekroTJA/discordjs-cmds.svg?branch=master" /></a>&nbsp;
      <a href="https://zekro.de/docs/acceptmessage"><img src="https://img.shields.io/badge/docs-jsdocs-c918cc.svg" /></a>
     <br>
     <br>
@@ -10,7 +9,7 @@
 
 ---
 
-## [👉 JSDOCS](https://zekro.de/docs/acceptmessages)
+## [👉 JSDOCS](https://zekro.de/docs/acceptmessage)
 
 ---
 
